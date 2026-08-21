@@ -1,0 +1,6 @@
+{
+  "name": "RecuperaJus - Gestão de Recuperações Judiciais",
+  "description": "Plataforma completa para Administradores Judiciais gerenciarem processos de recuperação judicial, quadro geral de credores, cálculo automático de prazos da Lei 11.101/05, geração de notificações e relatórios detalhados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
